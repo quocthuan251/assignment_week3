@@ -1,6 +1,6 @@
 # assignment_week3
 
-Accomplishments 🥇🏆💯
+Accomplishments
 [x] User can select Rock, Paper, or Scissors
 [x] User can see image of their selection
 [x] User can see text of their selection
